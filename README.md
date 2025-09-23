@@ -1,5 +1,4 @@
 ## Google Colab
----
 
 ## Intuito do repositório:
 - Local para anotações de estudos sobre a API (1°DSM);
